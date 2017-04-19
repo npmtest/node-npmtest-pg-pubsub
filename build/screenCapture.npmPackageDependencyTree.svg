@@ -1,0 +1,27 @@
+<svg height="382" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="382" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pg-pubsub@0.3.0 </tspan>
+<tspan x="10" y="90">  ├─┬ pg@4.5.6 </tspan>
+<tspan x="10" y="106">  │ ├── buffer-writer@1.0.1 </tspan>
+<tspan x="10" y="122">  │ ├── generic-pool@2.4.2 </tspan>
+<tspan x="10" y="138">  │ ├── packet-reader@0.2.0 </tspan>
+<tspan x="10" y="154">  │ ├── pg-connection-string@0.1.3 </tspan>
+<tspan x="10" y="170">  │ ├─┬ pg-types@1.11.0 </tspan>
+<tspan x="10" y="186">  │ │ ├── ap@0.2.0 </tspan>
+<tspan x="10" y="202">  │ │ ├── postgres-array@1.0.2 </tspan>
+<tspan x="10" y="218">  │ │ ├── postgres-bytea@1.0.0 </tspan>
+<tspan x="10" y="234">  │ │ ├── postgres-date@1.0.3 </tspan>
+<tspan x="10" y="250">  │ │ └─┬ postgres-interval@1.0.2 </tspan>
+<tspan x="10" y="266">  │ │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="282">  │ ├─┬ pgpass@0.0.3 </tspan>
+<tspan x="10" y="298">  │ │ └─┬ split@0.3.3 </tspan>
+<tspan x="10" y="314">  │ │   └── through@2.3.8 </tspan>
+<tspan x="10" y="330">  │ └── semver@4.3.6 </tspan>
+<tspan x="10" y="346">  ├── pg-format@1.0.4 </tspan>
+<tspan x="10" y="362">  └── promised-retry@0.2.3</tspan>
+</text>
+</svg>
